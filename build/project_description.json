@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "i2c_selftest",
-    "project_version":    "1",
+    "project_version":    "9d4db6e-dirty",
     "project_path":       "D:/CE232_IDF/i2c_selftest",
     "idf_path":           "C:/Users/HP/esp/v5.2.1/esp-idf",
     "build_dir":          "D:/CE232_IDF/i2c_selftest/build",
